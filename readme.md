@@ -7,8 +7,7 @@ I made this android app using List data structure in java.<br>
 ## Sreenshot
 <p id="img_cont">
 	<img src="/screenshots/tic_tac_toe_1.jpeg" width = "200" height= "350" hspace=40>
-	<img src="/screenshots/tic_tac_toe_1.jpeg" width = "200" height= "350" hspace=40>
-	<img src="/screenshots/tic_tac_toe_1.jpeg" width = "200" height= "350" hspace=40>
+	<img src="/screenshots/tic_tac_toe_2.jpeg" width = "200" height= "350" hspace=40>
 </p>
 
 
